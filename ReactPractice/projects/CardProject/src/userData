@@ -1,0 +1,62 @@
+export const users = [
+  {
+    id: 1,
+    img: "https://randomuser.me/api/portraits/women/1.jpg",
+    name: "Ananya Sharma",
+    tech: "Frontend Developer"
+  },
+  {
+    id: 2,
+    img: "https://randomuser.me/api/portraits/men/2.jpg",
+    name: "Rohan Mehta",
+    tech: "Backend Engineer"
+  },
+  {
+    id: 3,
+    img: "https://randomuser.me/api/portraits/women/3.jpg",
+    name: "Priya Verma",
+    tech: "UI/UX Designer"
+  },
+  {
+    id: 4,
+    img: "https://randomuser.me/api/portraits/men/4.jpg",
+    name: "Aarav Singh",
+    tech: "Full Stack Developer"
+  },
+  {
+    id: 5,
+    img: "https://randomuser.me/api/portraits/women/5.jpg",
+    name: "Neha Gupta",
+    tech: "Data Analyst"
+  },
+  {
+    id: 6,
+    img: "https://randomuser.me/api/portraits/men/6.jpg",
+    name: "Karan Patel",
+    tech: "Mobile App Developer"
+  },
+  {
+    id: 7,
+    img: "https://randomuser.me/api/portraits/women/7.jpg",
+    name: "Sneha Kapoor",
+    tech: "React Developer"
+  },
+  {
+    id: 8,
+    img: "https://randomuser.me/api/portraits/men/8.jpg",
+    name: "Arjun Nair",
+    tech: "Machine Learning Engineer"
+  },
+  {
+    id: 9,
+    img: "https://randomuser.me/api/portraits/women/9.jpg",
+    name: "Diya Reddy",
+    tech: "Cloud Architect"
+  },
+  {
+    id: 10,
+    img: "https://randomuser.me/api/portraits/men/10.jpg",
+    name: "Aditya Joshi",
+    tech: "DevOps Engineer"
+  }
+];

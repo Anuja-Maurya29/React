@@ -1,0 +1,99 @@
+
+ html body #root {
+  max-width: 100%;
+  margin: 0;
+  height :100%;
+
+}
+
+body{
+  background-color:rgb(136, 156, 156);
+}
+
+
+.container{
+  height:100vh;
+  width:100vw;
+  padding:10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 40px;
+  padding: 20px;
+  justify-content: center;
+}
+
+
+.card{
+  width:350px;
+  height:400px;
+  background-color:bisque;
+  border: 1px solid black;
+  border-radius: 25px;
+  box-shadow: 1px 1px 8px  rgb(12, 12, 12);
+   
+}
+
+#img{
+
+  border: 1px solid black;
+   box-shadow: 1px 1px 8px  rgb(12, 12, 12);
+}
+
+.profile{
+  text-align: center;
+  /* font-size: small; */
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.name{
+  font-size: 30px;
+}
+
+.tech{
+  font-size: 15px;
+  color: rgb(64, 62, 62);
+}
+
+.button{
+display: flex;
+flex-direction: row;
+justify-content: center;
+gap:15px;
+margin-top: 15px;
+}
+
+
+ .follow:hover{
+  width:190px;
+    border: 1px solid black;
+
+ }
+
+ .msg:hover{
+    width:160px;
+    border: 1px solid black;
+ }
+.follow{
+  background-color: rgb(227, 70, 101);
+  border:none;
+  border-radius: 50px;
+  color: white;
+  padding:12px;
+  font-size: 20px;
+  width: 150px;
+
+}
+
+.msg{
+    background-color: rgb(102, 123, 227);
+  border-radius: 50px;
+  color: white;
+  padding:12px;
+  font-size: 20px;
+  border:none;
+  width:150px;
+  
+}
+
+
+
